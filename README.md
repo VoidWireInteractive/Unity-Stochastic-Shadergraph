@@ -8,6 +8,9 @@ Shadergraph package for stochastic texture manipulation for Unity HDRP
 > This shadergraph was created using Unity 6 HDRP, thus a caveat is 
 > **_I am unsure of it's compatibility with previous versions of Unity/Shadergraph and other non-HDRP pipelines._**
 
+> [!WARNING]
+> It is always a good idea to either back up your current project or create a completely separate project with your main project's settings before implementing packages!
+
 # Modernized Functionality
 ### This shader offers standard functionality of the HDRP/Lit shader such as
 
